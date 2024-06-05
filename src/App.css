@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.input {
+  box-sizing: border-box;
+  color: aliceblue;
+  border: none;
+  outline: none;
+  background: black;
+  width: 6rem;
+  height: 2rem;
+  /* padding: 1rem; */
+  /* background: red; */
+}
